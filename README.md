@@ -40,6 +40,7 @@ Where tasks are assigned, run in parallel, and brought back for review.
 - [Archon](https://github.com/coleam00/Archon) - Workflow engine that defines planning, implementation, validation, review, and pull-request steps as YAML so agents run them the same way every time. Open source (MIT).
 - [Fusion](https://github.com/Runfusion/Fusion) - Multi-agent orchestrator that plans, builds, reviews, and ships work across tasks, worktrees, and models. Open source (MIT).
 - [Symphony](https://github.com/openai/symphony) - OpenAI's service that watches a project board, starts an isolated agent run for each task, and returns proof of work such as CI status and review feedback. Open source (Apache-2.0).
+- [Tale](https://github.com/tale-project/tale) - Project workspace by Tale for assigning tasks to reusable coding agents, running them in persistent sandboxes, and reviewing returned reports and deliverables. Open source (MIT).
 - [Warp Factories](https://docs.warp.dev/factories/) - Warp's framework for defining factories as code, moving requests through triage, specification, implementation, and review agents on its cloud platform. Proprietary.
 
 ## Coding agents

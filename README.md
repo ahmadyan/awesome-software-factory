@@ -97,6 +97,7 @@ Hosted agents that take a task, work on it remotely, and come back with a pull r
 Checking the output before a person spends time on it.
 
 - [Agent Browser](https://github.com/vercel-labs/agent-browser) - Vercel Labs' browser automation CLI built for AI agents, for example to check their own UI changes. Open source (Apache-2.0).
+- [agent-qa](https://vostride.com) - CLI and MCP testing agent by vostride for verifying Web, Android and iOS apps with natural-language tests, persistent memory and validated self-improvement. Source-available (FSL-1.1-ALv2).
 - [Bugbot](https://cursor.com/bugbot) - Cursor's pull-request reviewer focused on logic bugs. Proprietary.
 - [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Gives coding agents a live Chrome with DevTools for debugging, performance traces, and checking their changes. Open source (Apache-2.0).
 - [CodeRabbit](https://www.coderabbit.ai) - Pull-request reviewer with line-by-line suggestions and chat in the review thread. Proprietary.

@@ -73,6 +73,7 @@ Getting work into the factory as tasks an agent can pick up.
 - [Backlog.md](https://github.com/MrLesk/Backlog.md) - Task board kept as Markdown files in the repository, with a CLI and kanban view that people and agents share. Open source (MIT).
 - [Beads](https://github.com/gastownhall/beads) - Distributed, graph-based issue tracker for agents, backed by Dolt, from the Gas Town project. Open source (MIT).
 - [Cyrus](https://github.com/cyrusagents/cyrus) - Watches Linear, GitHub, GitLab, or Slack for issues assigned to it, opens a worktree for each, and runs Claude Code, Codex, or another agent on it. Open source (Apache-2.0).
+- [DevIntern](https://github.com/getdevintern/devintern) - Self-hosted worker by Daniil Pokrovsky that polls Jira, Linear, GitHub Issues, Trello, Asana, Azure DevOps, or a markdown folder for ready tickets, runs Claude Code, Codex, Cursor, or OpenCode on them, and opens pull requests. Source-available (FSL-1.1-ALv2).
 - [Linear for Agents](https://linear.app/agents) - Linear's support for agents as workspace members that can be assigned issues and report progress. Proprietary.
 - [Multica](https://github.com/multica-ai/multica) - Self-hostable board where you assign issues to agent CLIs that report progress, raise blockers, and hand work back for review. Source-available (Apache-2.0 with added conditions).
 - [Spec Kit](https://github.com/github/spec-kit) - GitHub's toolkit for spec-driven development, which turns a written specification into a plan and tasks for coding agents. Open source (MIT).

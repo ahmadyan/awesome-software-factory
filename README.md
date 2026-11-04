@@ -39,6 +39,7 @@ Where tasks are assigned, run in parallel, and brought back for review.
 - [Agentastic.dev](https://www.agentastic.dev/ai-software-factory) - Native multi-agent IDE that runs provider CLIs in worktrees or containers and keeps tests, browser checks, diff review, and pull requests next to each task; this page describes the software-factory workflow it supports. macOS. Proprietary.
 - [Archon](https://github.com/coleam00/Archon) - Workflow engine that defines planning, implementation, validation, review, and pull-request steps as YAML so agents run them the same way every time. Open source (MIT).
 - [Fusion](https://github.com/Runfusion/Fusion) - Multi-agent orchestrator that plans, builds, reviews, and ships work across tasks, worktrees, and models. Open source (MIT).
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Local-first desktop workspace from Orkas-AI where a Commander coordinates specialists and local coding agents to implement project goals and return code changes for review. Open source (MIT).
 - [Symphony](https://github.com/openai/symphony) - OpenAI's service that watches a project board, starts an isolated agent run for each task, and returns proof of work such as CI status and review feedback. Open source (Apache-2.0).
 - [Warp Factories](https://docs.warp.dev/factories/) - Warp's framework for defining factories as code, moving requests through triage, specification, implementation, and review agents on its cloud platform. Proprietary.
 

@@ -64,6 +64,7 @@ Somewhere for each task to run without touching the others.
 - [Fly.io Sprites](https://fly.io/sprites/) - Linux computers for agents, persistent or disposable, with checkpoint and restore. Proprietary.
 - [Git worktrees](https://git-scm.com/docs/git-worktree) - Git's built-in way to check out several branches of one repository in separate directories, the usual first layer of isolation for parallel agents.
 - [Modal Sandboxes](https://modal.com/docs/guide/sandboxes) - Secure containers on Modal for executing untrusted user or agent code. Proprietary.
+- [SandBase Sandbox](https://www.sandbase.ai/sandbox) - Hosted workspaces that let agents run generated code and retrieve files via the E2B SDK. Proprietary.
 - [Vercel Sandbox](https://vercel.com/docs/sandbox) - On-demand Firecracker microVMs, each with its own filesystem and network, for running agent-generated code. Proprietary.
 
 ## Issue intake

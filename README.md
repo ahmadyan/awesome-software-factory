@@ -64,7 +64,7 @@ Somewhere for each task to run without touching the others.
 - [Fly.io Sprites](https://fly.io/sprites/) - Linux computers for agents, persistent or disposable, with checkpoint and restore. Proprietary.
 - [Git worktrees](https://git-scm.com/docs/git-worktree) - Git's built-in way to check out several branches of one repository in separate directories, the usual first layer of isolation for parallel agents.
 - [Modal Sandboxes](https://modal.com/docs/guide/sandboxes) - Secure containers on Modal for executing untrusted user or agent code. Proprietary.
-- [Sandscale](https://sandscale.dev/) - Firecracker microVM per agent run, with cloud workspaces, a remote MCP server, per-tool allow/ask/deny policy, human approvals and an audit log. Proprietary.
+- [Sandscale](https://sandscale.dev/) - Firecracker microVM per agent run, with cloud workspaces, a remote MCP server, policy controls, human approvals and an audit log. Proprietary.
 - [Vercel Sandbox](https://vercel.com/docs/sandbox) - On-demand Firecracker microVMs, each with its own filesystem and network, for running agent-generated code. Proprietary.
 
 ## Issue intake
